@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.example</groupId>
+  <artifactId>myapp1</artifactId>
+  <versioning>
+    <release>0.0.1-XXX</release>
+    <versions>
+      <version>0.0.1-XXX</version>
+    </versions>
+    <lastUpdated>20240115181320</lastUpdated>
+  </versioning>
+</metadata>
